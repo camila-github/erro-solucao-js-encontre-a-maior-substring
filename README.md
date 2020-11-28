@@ -27,7 +27,7 @@ Hey This java is hot |
 Java is a new paradigm |
 
 ```javascript
-//SOLUÇAO 1
+//SOLUCAO 1
 /*Leitura dos gets, duas linhas por vez*/
 let getsUm = gets();
 while (getsUm != '') {
