@@ -47,7 +47,7 @@ const maiorString = (strUm, strDois) => {
     }
     return 0;
 }   
-//Leitura dos gets, duas linhas por vez. Chama a função e imprime o resultado
+/*Leitura dos gets, duas linhas por vez. Chama a função e imprime o resultado*/
 while((primeiraLinha = gets()) != '') console.log(maiorString(primeiraLinha, gets())); 
 
 //SOLUCAO 2
